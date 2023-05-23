@@ -150,9 +150,9 @@ export const HERBAL_PRODUCTS_MFG = [
 
 // prettier-ignore
 export const DUMMY_BLOGS = [
-  {id: 'b1', title: "Embrace Your Natural Glow: Tips for Enhancing Your Skin's Radiance", img: 'blog-1-img.jpg', datePost: 'February 11, 2023', author: 'eximburg', keyword: 'best food nutrition supplement for health', article: {}, page: '/blog/embrace-your-natural-glow'},
-  {id: 'b2', title: 'Beauty Apple Facewash: Unveiling the Freshness of Nature', img: 'blog-2-img.jpg', datePost: 'February 26, 2023', author: 'eximburg', keyword: 'benefits of non juice', article: {}, page: '/blog/beauty-apple-facewash'},
-  {id: 'b3', title: 'Vitamin C Face Serum: The Radiance Booster Your Skin Needs', img: 'blog-3-img.jpg', datePost: 'March 21, 2023', author: 'eximburg', keyword: 'benefits of non juice', article: {}, page: '/blog/vitamin-c-face-serum'},
+  {id: 'b1', title: "Embrace Your Natural Glow: Tips for Enhancing Your Skin's Radiance", img: 'blog-1-img-compressed.jpg', datePost: 'February 11, 2023', author: 'eximburg', keyword: 'best food nutrition supplement for health', article: {}, page: '/blog/embrace-your-natural-glow'},
+  {id: 'b2', title: 'Beauty Apple Facewash: Unveiling the Freshness of Nature', img: 'blog-2-img-compressed.jpg', datePost: 'February 26, 2023', author: 'eximburg', keyword: 'benefits of non juice', article: {}, page: '/blog/beauty-apple-facewash'},
+  {id: 'b3', title: 'Vitamin C Face Serum: The Radiance Booster Your Skin Needs', img: 'blog-3-img-compressed.jpg', datePost: 'March 21, 2023', author: 'eximburg', keyword: 'benefits of non juice', article: {}, page: '/blog/vitamin-c-face-serum'},
 ];
 
 // prettier-ignore

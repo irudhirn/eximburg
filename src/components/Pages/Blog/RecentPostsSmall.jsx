@@ -8,19 +8,19 @@ const DUMMY_RECENT_POSTS = [
   {
     id: "p1",
     name: "Embrace Your Natural Glow: Tips for Enhancing Your Skin's Radiance",
-    img: "blog-1-img.jpg",
+    img: "blog-1-img-compressed.jpg",
     page: "/blog/embrace-your-natural-glow"
   },
   {
     id: "p2",
     name: "Beauty Apple Facewash: Unveiling the Freshness of Nature",
-    img: "blog-2-img.jpg",
+    img: "blog-2-img-compressed.jpg",
     page: "/blog/beauty-apple-facewash"
   },
   {
     id: "p3",
     name: "Vitamin C Face Serum: The Radiance Booster Your Skin Needs",
-    img: "blog-3-img.jpg",
+    img: "blog-3-img-compressed.jpg",
     page: "/blog/vitamin-c-face-serum"
   }
 ];

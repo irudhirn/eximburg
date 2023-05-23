@@ -15,7 +15,7 @@ const Blog3 = () => {
             {params.someblog === "vitamin-c-face-serum" && <h3 className={classes.blogHeading}>Vitamin C Face Serum: The Radiance Booster Your Skin Needs</h3>}
             <div className={classes.bigImg}>
               <img
-                src={require("../../../../resources/images/blog-3-img.jpg")}
+                src={require("../../../../resources/images/blog-3-img-compressed.jpg")}
                 alt="vitamin-c-face-serum"
               />
             </div>

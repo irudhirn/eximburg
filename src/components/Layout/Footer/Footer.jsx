@@ -66,10 +66,10 @@ const Footer = () => {
                 <li className={classes.linksListItem} onClick={() => gotToTop()}><Link to={""} className={classes.link}>jaideep.eximburg@gmail.com</Link></li>
                 <li className={classes.linksListItem} onClick={() => gotToTop()}><Link to={""} className={classes.link}>Monday To Saturday: 10 AM To 6 PM - Closed on Sunday & Bank Holiday</Link></li>
                 <li className={`${classes.linksListItem} ${classes.socialLinksListItem}`} style={{}}>
-                  <span style={{height: '40px', width: '40px', borderRadius: '50px', overflow: 'hidden'}}><Link><img src={require("../../../resources/images/instagram.png")} alt="instagram" style={{height: '100%', width: '100%'}}/></Link></span>
-                  <span style={{height: '40px', width: '40px', borderRadius: '50px', overflow: 'hidden'}}><Link><img src={require("../../../resources/images/facebook.png")} alt="facebook" style={{height: '100%', width: '100%'}}/></Link></span>
-                  <span style={{height: '40px', width: '40px', borderRadius: '50px', overflow: 'hidden'}}><Link><img src={require("../../../resources/images/twitter.png")} alt="twitter" style={{height: '100%', width: '100%'}}/></Link></span>
-                  <span style={{height: '40px', width: '40px', borderRadius: '50px', overflow: 'hidden'}}><Link><img src={require("../../../resources/images/youtube.png")} alt="twitter" style={{height: '100%', width: '100%'}}/></Link></span>
+                  <span style={{height: '40px', width: '40px', borderRadius: '50px', overflow: 'hidden'}}><Link to={"https://instagram.com/eximburginternational?igshid=MzRIODBiNWFIZA=="}><img src={require("../../../resources/images/instagram.png")} alt="instagram" style={{height: '100%', width: '100%'}}/></Link></span>
+                  <span style={{height: '40px', width: '40px', borderRadius: '50px', overflow: 'hidden'}}><Link to={"https://www.facebook.com/eximburg?mibextid=ZbWKwL"}><img src={require("../../../resources/images/facebook.png")} alt="facebook" style={{height: '100%', width: '100%'}}/></Link></span>
+                  {/* <span style={{height: '40px', width: '40px', borderRadius: '50px', overflow: 'hidden'}}><Link><img src={require("../../../resources/images/twitter.png")} alt="twitter" style={{height: '100%', width: '100%'}}/></Link></span> */}
+                  <span style={{height: '40px', width: '40px', borderRadius: '50px', overflow: 'hidden'}}><Link to={"https://www.youtube.com/@uniquebusinessinindia8756"}><img src={require("../../../resources/images/youtube.png")} alt="twitter" style={{height: '100%', width: '100%'}}/></Link></span>
                 </li>
               </ul>
             </li>

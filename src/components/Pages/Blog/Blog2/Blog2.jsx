@@ -15,7 +15,7 @@ const Blog2 = () => {
           {params.someblog === "beauty-apple-facewash" && <h3 className={classes.blogHeading}>Beauty Apple Facewash: Unveiling the Freshness of Nature</h3>}
           <div className={classes.bigImg}>
             <img
-              src={require("../../../../resources/images/blog-2-img.jpg")}
+              src={require("../../../../resources/images/blog-2-img-compressed.jpg")}
               alt="beauty-apple-facewash"
             />
           </div>
